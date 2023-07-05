@@ -9,7 +9,7 @@
 
 - Driven by a commitment to inspiration, intelligence, and integrity, I am always up for a challenge and am committed to achieving results, even under high pressure.
 
-- <p dir="auto"><strong>Languages and Tools:</strong><br>
+- Languages and Tools:
 <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" style="max-width: 100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="max-width: 100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/hasnainiftikhar/hasnainiftikhar/blob/main/powerbi.png"><img height="20" src="https://github.com/hasnainiftikhar/hasnainiftikhar/blob/main/powerbi.png" style="max-width: 100%;"></a></code>
