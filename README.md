@@ -19,6 +19,6 @@
 </p>
 
 <br/>
- <code><img height="20" src="https://github.com/hasnainiftikhar/hasnainiftikhar/blob/main/gmail1.png" style="max-width: 100%;"></code> <a href="hasnainiftikhar100@gmail.com">hasnainiftikhar100@gmail.com</a>
+ <code><img height="20" src="https://github.com/hasnainiftikhar/hasnainiftikhar/blob/main/gmail1.png" style="max-width: 100%;"></code> <a href="mailto: hasnainiftikhar100@gmail.com">hasnainiftikhar100@gmail.com</a>
 
 
