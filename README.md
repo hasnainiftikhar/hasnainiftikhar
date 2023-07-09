@@ -18,6 +18,6 @@
 <code><a target="_blank" rel="noopener noreferrer nofollow"><img height="20" src="https://github.com/hasnainiftikhar/hasnainiftikhar/blob/main/tableu.png" style="max-width: 100%;"></a></code>
 </p>
 
-🟢 Reach me @email: hasnainiftikhar100@gmail.com
+ <code><img height="20" src="https://github.com/hasnainiftikhar/hasnainiftikhar/blob/main/gmail.jpg" style="max-width: 100%;"></code> hasnainiftikhar100@gmail.com
 
 
