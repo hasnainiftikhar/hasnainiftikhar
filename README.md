@@ -23,4 +23,4 @@
 
 |    Project Link    |    Area of Analysis    |    Project Description    |    Features    |
 |    ---    |    ---   |    ---    |    ---    |
-|  BI-HR-Analytics-Dashboard   |   Data analysis   |   Designed Power BI dashboard to provide real-time insights one employee performance, turnover rate, and recruitment progress   |   HR Analytics   |
+| <a href = "https://github.com/hasnainiftikhar/BI-HR-Analytics-Dashboard"> BI-HR-Analytics-Dashboard </a>  |   Data analysis   |   Designed Power BI dashboard to provide real-time insights one employee performance, turnover rate, and recruitment progress   |   HR Analytics   |
