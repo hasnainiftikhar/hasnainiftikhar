@@ -19,6 +19,9 @@
 
 - <a href="mailto:hasnainiftikhar100@gmail.com"><img height="15" src="https://github.com/hasnainiftikhar/hasnainiftikhar/blob/main/gmail1.png" style="max-width: 100%; margin-left: 5px; vertical-align: middle;"></a> hasnainiftikhar100@gmail.com
 
+----------------
 
-| Project Link | Area of Analysis | Project Description | Features |
-| --- | --- | --- | --- |
+|    Project Link    |    Area of Analysis    |    Project Description    |    Features    |
+|    ---    |    ---   |    ---    |    ---    |
+|  BI-HR-Analytics-Dashboard   |   Data analysis   |   Designed Power BI dashboard to provide real-time insights on
+employee performance, turnover rate, and recruitment progress   |   HR Analytics   |
