@@ -26,4 +26,4 @@
 | <a href = "https://github.com/hasnainiftikhar/BI-HR-Analytics-Dashboard"> BI-HR-Analytics-Dashboard </a>  |   Data analysis   |   Designed Power BI dashboard to provide real-time insights one employee performance, turnover rate, and recruitment progress   |   HR Analytics   |
 | <a href = "https://github.com/hasnainiftikhar/SQL-BI-SalesReportingDashboard"> SQL-BI-SalesReportingDashboard </a>   |   Data analysis   |   
 | <a href = "https://github.com/hasnainiftikhar/Python-ML-SpaceX-Rocket-Landing-Prediction"> Python-ML-SpaceX-Rocket-Landing-Prediction </a>   |   Data analysis   |   
-| <a href = "https://github.com/hasnainiftikhar/SQL-BI-SalesReportingDashboard"> SQL-BI-SalesReportingDashboard </a>   Data analysis   |
+| <a href = "https://github.com/hasnainiftikhar/SQL-BI-SalesReportingDashboard"> SQL-BI-SalesReportingDashboard </a>   |   Data analysis   |
