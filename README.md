@@ -6,7 +6,7 @@
 
 ## Hi there 👋, I'm Hasnain
 
-- With 4 years of professional experience in SQL, Power BI, Tableau, and Python, I am a process-oriented Data Viz & Analyst Specialist who is committed to leverages data to find meaningful insights.
+- With 5 years of professional experience in SQL, Power BI, Tableau, and Python, I am a process-oriented Data Viz & Analyst Specialist who is committed to leverages data to find meaningful insights.
 
 - Driven by a commitment to inspiration, intelligence, and integrity, I am always up for a challenge and am committed to achieving results, even under high pressure.
 
